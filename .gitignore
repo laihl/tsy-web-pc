@@ -1,7 +1,6 @@
-.idea
-.mvn
-mvnw
-mvnw.cmd
-target
-/log
+dist
+node_modules
+.DS_Store
+/dist
+/node_modules
 *.iml
